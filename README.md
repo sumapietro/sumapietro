@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sumapietro, a junior dev from Italy
+- 👀 I’m interested in JS and Java
+- 🌱 I’m currently learning Ajax/Rest
