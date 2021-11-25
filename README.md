@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @sumapietro, a junior dev from Italy
-- 👀 I’m interested in JS and Java
-- 🌱 I’m currently learning Ajax/Rest
+- 👀 I’m interested in js and react
+- 🌱 I’m currently working as front-end developer
+- 👀 I'm interested to develop webapp that grant and simplify access to public services
